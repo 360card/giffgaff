@@ -25,7 +25,7 @@ GiffGaff 的付费方案分为合约（18 month contracts）、按月续费（Mo
 
 ### giffgaff 按需付费/长期有效
 
-如果不购买套餐，则不使用不扣费（即0月租），按照实际用量以计费，这种方式适合保号或者只是用来注册海外的应用。
+如果不购买付费方案，则不使用不扣费（即0月租），按照实际用量以计费，这种方式适合保号或者只是用来注册海外的应用。
 
 | 资费  | 漫游（除英国和欧盟以外地区） | 本地（英国和欧盟地区） |
 | --- | --- | --- |
@@ -33,6 +33,8 @@ GiffGaff 的付费方案分为合约（18 month contracts）、按月续费（Mo
 | 发短信 | £ 0.3 | £ 0.1 |
 | 流量  | £ 0.2/MB | £ 0.1/MB |
 | 拨打和接听电话 | £ 1/min | £ 0.25/min |
+
+以上漫游资费详情可查阅获取 [Roaming with giffgaff](https://www.giffgaff.com/roaming-charges) 。
 
 ## giffgaff 的应用场景
 
@@ -130,49 +132,56 @@ First name 这里填写拼音的名， Last name 填写拼音的姓，建议全�
 
 ## 收到并激活卡片
 
+### 访问激活页面，填写激活码
 信封内包含一张SIM 卡及其附带的激活编号。激活需要在英国当地时间4:55PM-11:05AM 区间操作，具体是否满足条件可以直接在百度或者Google搜索“英国当前时间” 查看。
 
 任意浏览器打开[激活页面](https://www.giffgaff.com/activate)，输入卡上的8 位编号（推荐）或SIM 卡背面的13 位编号，点击Active your SIM 按钮。
 
 ![英国实体SIM 卡giffgaff 申请、激活和使用教程](https://360card.site/wp-content/uploads/2024/12/Screenshot-2024-11-30-173546-300x171.png "英国实体SIM 卡giffgaff 申请、激活和使用教程")
 
+### 填写邮箱
 根据提示填写邮箱地址注册Giffgaff 账户，并点击Next 按钮进入下一步。
 
 注册邮箱不需要和申请卡片时的一致，但一定要保证邮箱账户的安全性，万不可使用公共邮箱、临时邮箱或他人的邮箱注册。
 
 ![英国实体SIM 卡giffgaff 申请、激活和使用教程](https://360card.site/wp-content/uploads/2024/12/Screenshot-2024-11-30-173704-300x261.png "英国实体SIM 卡giffgaff 申请、激活和使用教程")
 
+### 校验邮箱
 访问邮箱获取验证码，并在页面中填写校验注册邮箱，然后点击Confirm 按钮提交。
 
 如果没有收到可以重复点击文本框部分的resend 链接重新发送验证码，如果临时发现邮箱填写不正确，可以点击邮箱下方的change 链接修改注册邮箱。
 
 ![英国实体SIM 卡giffgaff 申请、激活和使用教程](https://360card.site/wp-content/uploads/2024/12/Screenshot-2024-11-30-150143-确认邮箱-300x288.png "英国实体SIM 卡giffgaff 申请、激活和使用教程")
-
+### 配置账户密码
 按照给出的密码规则配置账户密码，点击Register 按钮。
 
 ![英国实体SIM 卡giffgaff 申请、激活和使用教程](https://360card.site/wp-content/uploads/2024/12/Screenshot-2024-11-30-173758-300x273.png "英国实体SIM 卡giffgaff 申请、激活和使用教程")
-
+### 配置邮件通知
 配置邮件通知，并点击Continue 继续。
 
 ![英国实体SIM 卡giffgaff 申请、激活和使用教程](https://360card.site/wp-content/uploads/2024/12/Screenshot-2024-11-30-173944-300x275.png "英国实体SIM 卡giffgaff 申请、激活和使用教程")
 
+### 选择付费方案并充值 10 英镑
 以配置0 月租付费方案（列表最后一个付费方案）为例，更多付费方案可以查阅：
 
 ![英国实体SIM 卡giffgaff 申请、激活和使用教程](https://360card.site/wp-content/uploads/2024/12/Screenshot-2024-11-30-174145-300x151.png "英国实体SIM 卡giffgaff 申请、激活和使用教程") ![英国实体SIM 卡giffgaff 申请、激活和使用教程](https://360card.site/wp-content/uploads/2024/12/Screenshot-2024-11-30-174252-300x184.png "英国实体SIM 卡giffgaff 申请、激活和使用教程")
 
-至少充值10 英镑。
+至少充值 10 英镑。
 
 ![英国实体SIM 卡giffgaff 申请、激活和使用教程](https://360card.site/wp-content/uploads/2024/12/Screenshot-2024-11-30-174335-300x256.png "英国实体SIM 卡giffgaff 申请、激活和使用教程")
-
+### 填写个人信息
 填写个人信息，可以参考填写卡片申请处的要求填写。
 
 ![英国实体SIM 卡giffgaff 申请、激活和使用教程](https://360card.site/wp-content/uploads/2024/12/Screenshot-2024-11-30-174515-150x300.png "英国实体SIM 卡giffgaff 申请、激活和使用教程")
 
+### 填写账单地址
 填写付款方式和账单地址，账单地址简单起见和个人地址一致。
 
 ![英国实体SIM 卡giffgaff 申请、激活和使用教程](https://360card.site/wp-content/uploads/2024/12/Screenshot-2024-11-30-174702-300x204.png "英国实体SIM 卡giffgaff 申请、激活和使用教程") ![英国实体SIM 卡giffgaff 申请、激活和使用教程](https://360card.site/wp-content/uploads/2024/12/Screenshot-2024-11-30-175327-293x300.png "英国实体SIM 卡giffgaff 申请、激活和使用教程")
 
+### 提交激活指令
 点击Active your SIM 按钮激活卡片，成功激活卡片后可以在页面看到11位的英国电话号码、和你的账户用户名。
+请务必把 电话号码 和 用户名 记录好（Giffgaff 的通知邮件也有记录，可以把对应的邮件星标），Giffgaff 账户登录的用户名不能填邮箱，需要填这里的电话号码或者用户名。
 
 ![英国实体SIM 卡giffgaff 申请、激活和使用教程](https://360card.site/wp-content/uploads/2024/12/Screenshot-2024-11-30-175706-201x300.png "英国实体SIM 卡giffgaff 申请、激活和使用教程")
 
@@ -232,10 +241,10 @@ giffgaff 官方的政策是每半年有余额变动或者充值。 giffgaff 官�
 
 在中国大陆发短信是最简便的方法。总结一下，有以下几种方式保号：
 
-进行一次充值  
-拨打一个电话（不能是客服的免费电话）  
-发送一条短信（不能是免费短信）  
-使用数据连一次互联网
+* 进行一次充值  
+* 拨打一个电话（不能是客服的免费电话）  
+* 发送一条短信（不能是免费短信）  
+* 使用数据连一次互联网
 
 这里推荐发给英国（其它运营商）的手机客服热线（+44 797 300 0186），发送号码填写0044 7973000186，内容任意。
 
@@ -243,7 +252,7 @@ giffgaff 官方的政策是每半年有余额变动或者充值。 giffgaff 官�
 
 在一些极端情况下（比如从实体卡转换到eSIM 等），giffgaff 的短信收发有异常，这种情况下需要设置giffgaff 的短信中心号码。
 
-1.  进入“设置”界面后，找到“短信”或“消息”等相关选项。
-2.  在“短信”或“消息”界面中，找到“短信中心”或“消息中心”等相关选项。
-3.  点击“短信中心”或“消息中心”选项，进入编辑短信中心号码的界面。
-4.  输入giffgaff的短信中心号码：+447802092035，保存设置。
+* 进入“设置”界面后，找到“短信”或“消息”等相关选项。
+* 在“短信”或“消息”界面中，找到“短信中心”或“消息中心”等相关选项。
+* 点击“短信中心”或“消息中心”选项，进入编辑短信中心号码的界面。
+* 输入giffgaff的短信中心号码：+447802092035，保存设置。
