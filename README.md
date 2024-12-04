@@ -175,7 +175,7 @@ First name 这里填写拼音的名， Last name 填写拼音的姓，建议全�
 ![英国实体SIM 卡giffgaff 申请、激活和使用教程](https://360card.site/wp-content/uploads/2024/12/Screenshot-2024-11-30-174515-150x300.png "英国实体SIM 卡giffgaff 申请、激活和使用教程")
 
 ### 填写账单地址
-填写付款方式和账单地址，账单地址简单起见和个人地址一致。
+填写付款方式和账单地址，付款方式支持 MasterCard、Vista 和 PayPal，账单地址简单起见和个人地址一致。
 
 ![英国实体SIM 卡giffgaff 申请、激活和使用教程](https://360card.site/wp-content/uploads/2024/12/Screenshot-2024-11-30-174702-300x204.png "英国实体SIM 卡giffgaff 申请、激活和使用教程") ![英国实体SIM 卡giffgaff 申请、激活和使用教程](https://360card.site/wp-content/uploads/2024/12/Screenshot-2024-11-30-175327-293x300.png "英国实体SIM 卡giffgaff 申请、激活和使用教程")
 
@@ -203,7 +203,7 @@ First name 这里填写拼音的名， Last name 填写拼音的姓，建议全�
 
 ### 查询手机号码
 
-编辑短信内容NUMBER 到2020
+编辑短信内容 NUMBER 发送到2020
 
 ### 查询话费余额
 
