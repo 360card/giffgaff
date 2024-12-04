@@ -1,3 +1,4 @@
+# 英国实体SIM 卡giffgaff 申请、激活和使用教程
 ## ![英国实体SIM 卡giffgaff 申请、激活和使用教程](https://360card.site/wp-content/uploads/2024/12/Giffgaff-Unlimited-Data-Plan-300x163.webp "英国实体SIM 卡giffgaff 申请、激活和使用教程")
 
 咨询和交流TG群：[eSIM card 交流群](https://t.me/esim_card_fans)
