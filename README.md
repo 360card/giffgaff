@@ -1,4 +1,4 @@
-# 英国实体SIM 卡giffgaff 申请、激活和使用教程
+# 英国实体SIM 卡 giffgaff 申请、激活和使用攻略 2024 冬季版（90% 以上高送达率）
 ## ![英国实体SIM 卡giffgaff 申请、激活和使用教程](https://360card.site/wp-content/uploads/2024/12/Giffgaff-Unlimited-Data-Plan-300x163.webp "英国实体SIM 卡giffgaff 申请、激活和使用教程")
 
 咨询和交流TG群：[eSIM card 交流群](https://t.me/esim_card_fans)
@@ -175,7 +175,8 @@ First name 这里填写拼音的名， Last name 填写拼音的姓，建议全�
 ![英国实体SIM 卡giffgaff 申请、激活和使用教程](https://360card.site/wp-content/uploads/2024/12/Screenshot-2024-11-30-174515-150x300.png "英国实体SIM 卡giffgaff 申请、激活和使用教程")
 
 ### 填写账单地址
-填写付款方式和账单地址，付款方式支持 MasterCard、Vista 和 PayPal，账单地址简单起见和个人地址一致。
+填写付款方式和账单地址，付款方式支持 MasterCard、Vista，账单地址简单起见和个人地址一致。
+> 初次使用需要MasterCard、Vista支付，后面也可以添加 PayPal 支付方式。
 
 ![英国实体SIM 卡giffgaff 申请、激活和使用教程](https://360card.site/wp-content/uploads/2024/12/Screenshot-2024-11-30-174702-300x204.png "英国实体SIM 卡giffgaff 申请、激活和使用教程") ![英国实体SIM 卡giffgaff 申请、激活和使用教程](https://360card.site/wp-content/uploads/2024/12/Screenshot-2024-11-30-175327-293x300.png "英国实体SIM 卡giffgaff 申请、激活和使用教程")
 
@@ -242,8 +243,8 @@ giffgaff 官方的政策是每半年有余额变动或者充值。 giffgaff 官�
 在中国大陆发短信是最简便的方法。总结一下，有以下几种方式保号：
 
 * 进行一次充值  
-* 拨打一个电话（不能是客服的免费电话）  
-* 发送一条短信（不能是免费短信）  
+* 拨打一个电话（不能是giffgaff客服、紧急电话等免费电话）  
+* 发送一条短信（不能是giffgaff客服免费短信）  
 * 使用数据连一次互联网
 
 这里推荐发给英国（其它运营商）的手机客服热线（+44 797 300 0186），发送号码填写0044 7973000186，内容任意。
