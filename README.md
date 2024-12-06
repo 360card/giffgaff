@@ -2,7 +2,7 @@
 ## ![英国实体SIM 卡giffgaff 申请、激活和使用教程](https://360card.site/wp-content/uploads/2024/12/Giffgaff-Unlimited-Data-Plan-300x163.webp "英国实体SIM 卡giffgaff 申请、激活和使用教程")
 
 咨询和交流TG群：[eSIM card 交流群](https://t.me/esim_card_fans)
-
+> 90% 以上送达率指通过[邀请链接](http://www.giffgaff.com/orders/affiliate/mailw51_1700277305847)申请卡片，每10次申请操作，可以送达9张或10张卡片。
 ## giffgaff 是什么
 
 > **Giffgaff**是一家总部位于英国的移动电话公司。作为一家移动虚拟网络电信运营商，Giffgaff使用O2 “O2 (英国)”)的网络，是O2的全资子公司，成立于2009年11月25日。
