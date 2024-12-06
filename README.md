@@ -46,7 +46,7 @@ GiffGaff 的付费方案分为合约（18 month contracts）、按月续费（Mo
 *   到英国或欧洲短期旅行
 *   英国留学或长期居住在英国
 
-## 如何获得giffgaff
+## 如何申请giffgaff
 
 Giffgaff 实体卡可以从官网直接申请，但是没有£5 的话费赠送，通过360CARD [邀请链接](http://www.giffgaff.com/orders/affiliate/mailw51_1700277305847) 申请可以获取£5 的话费赠送。
 
