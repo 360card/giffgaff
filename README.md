@@ -2,7 +2,7 @@
 ## ![英国实体SIM 卡giffgaff 申请、激活和使用教程](https://360card.site/wp-content/uploads/2024/12/Giffgaff-Unlimited-Data-Plan-300x163.webp "英国实体SIM 卡giffgaff 申请、激活和使用教程")
 
 咨询和交流TG群：[eSIM card 交流群](https://t.me/esim_card_fans)
-> 90% 以上送达率指通过[邀请链接](http://www.giffgaff.com/orders/affiliate/mailw51_1700277305847)申请卡片，每10次申请操作，可以送达9张或10张卡片。
+> 90% 以上送达率指通过 [邀请链接](http://www.giffgaff.com/orders/affiliate/mailw51_1700277305847)申请卡片，每10次申请操作，可以送达9张或10张卡片。
 ## giffgaff 是什么
 
 > **Giffgaff**是一家总部位于英国的移动电话公司。作为一家移动虚拟网络电信运营商，Giffgaff使用O2 “O2 (英国)”)的网络，是O2的全资子公司，成立于2009年11月25日。
@@ -48,7 +48,7 @@ GiffGaff 的付费方案分为合约（18 month contracts）、按月续费（Mo
 
 ## 如何获得giffgaff
 
-Giffgaff 实体卡可以从官网直接申请，但是没有£5 的话费赠送，通过360CARD [专享邀请链接](http://www.giffgaff.com/orders/affiliate/mailw51_1700277305847)申请可以获取£5 的话费赠送。
+Giffgaff 实体卡可以从官网直接申请，但是没有£5 的话费赠送，通过360CARD [邀请链接](http://www.giffgaff.com/orders/affiliate/mailw51_1700277305847) 申请可以获取£5 的话费赠送。
 
 众所周知，giffgaff 是通过平信寄出，国际平信在大陆邮政体系下送达率并不高，甚至此前有粉丝反馈，自己申请了五六次，都没有寄到。 
 
@@ -60,7 +60,7 @@ Giffgaff 实体卡可以从官网直接申请，但是没有£5 的话费赠送�
 
 ### 填写卡片申请
 
-访问 [专享邀请链接](http://www.giffgaff.com/orders/affiliate/mailw51_1700277305847)，根据页面提示填写邮寄信息。
+访问 [邀请链接](http://www.giffgaff.com/orders/affiliate/mailw51_1700277305847)
 
 Giffgaff 的政策允许邮寄到大陆的，不过仍有大陆的粉丝反馈遇到了Country（国家）停留在英国无法选择的情况。这种情况下一般更换网络环境都能解决，比如更换到手机移动网络下操作，或者走一个其它国家的代理。
 
