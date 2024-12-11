@@ -199,7 +199,7 @@ First name 这里填写拼音的名， Last name 填写拼音的姓，建议全�
 
 比如是在中国大陆只是用来保号的话，可以关闭。
 
-拨号界面输入##002# 关闭/重新开启语音信箱。
+根据页面提示 [联系官方客服](https://www.giffgaff.com/help/articles/how-do-i-turn-voicemail-on-or-off) ，为你关闭语音信箱。
 
 ### 查询手机号码
 
