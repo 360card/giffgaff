@@ -50,10 +50,6 @@ GiffGaff 的付费方案分为合约（18 month contracts）、按月续费（Mo
 
 Giffgaff 实体卡可以从官网直接申请，但是没有£5 的话费赠送，通过360CARD [邀请链接](https://360card.site/go/giffgaff/) 申请可以获取£5 的话费赠送。
 
-众所周知，giffgaff 是通过平信寄出，国际平信在大陆邮政体系下送达率并不高，甚至此前有粉丝反馈，自己申请了五六次，都没有寄到。 
-
-下边就以我 500+ （90% 以上的送达率）申请的经验一步一步地带大家申请。
-
 ### 准备
 
 确保有接收国际平信的条件，比如家里或单位拥有邮政邮箱，单位或学校拥有前台、传达室，收发室等。
@@ -64,7 +60,7 @@ Giffgaff 实体卡可以从官网直接申请，但是没有£5 的话费赠送�
 
 Giffgaff 的政策允许邮寄到大陆的，不过仍有大陆的粉丝反馈遇到了Country（国家）停留在英国无法选择的情况。这种情况下一般更换网络环境都能解决，比如更换到手机移动网络下操作，或者走一个其它国家的代理。
 
-[![英国实体SIM 卡giffgaff 申请、激活和使用教程](https://360card.site/wp-content/uploads/2024/12/Screenshot-2024-12-03-175011-邀请申请电话卡的链接-标注-e1733236554645-821x1024.jpg "英国实体SIM 卡giffgaff 申请、激活和使用教程")](http://www.giffgaff.com/orders/affiliate/mailw51_1700277305847)
+[![英国实体SIM 卡giffgaff 申请、激活和使用教程](https://360card.site/wp-content/uploads/2024/12/Screenshot-2024-12-03-175011.png "英国实体SIM 卡giffgaff 申请、激活和使用教程")](https://360card.site/go/giffgaff/)
 
 有下边几个关键点需要注意：
 
@@ -106,7 +102,9 @@ First name 这里填写拼音的名， Last name 填写拼音的姓，建议全�
 
 ### 提交申请
 
-点击order your free SIM 按钮，提交申请。回到 [邀请链接](https://360card.site/go/giffgaff/) 重复申请 5 次。
+点击order your free SIM 按钮，提交申请。回到 [邀请链接](https://360card.site/go/giffgaff/) 根据你的需要，可以重复申请多张（每次需要重新填写表单，每次只能申请一张卡片）。
+
+> 如果你正好身在大陆的大城市，而且大部分情形国际平信都能顺利到达，那么你往往只申请 1 次 2 次即可；如果你还想同时把寄来的卡片送给你的朋友，那么也可以根据需要申请多次。
 
 ![英国实体SIM 卡giffgaff 申请、激活和使用教程](https://360card.site/wp-content/uploads/2024/12/Screenshot-2024-12-03-195507-1024x349.png "英国实体SIM 卡giffgaff 申请、激活和使用教程")
 
