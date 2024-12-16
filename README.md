@@ -1,4 +1,4 @@
-# 英国实体 SIM 卡 giffgaff 申请、激活和使用攻略（2024 冬季版）（90% 以上送达率）
+# 英国实体 SIM 卡 giffgaff 申请、激活和使用攻略
 ## ![英国实体SIM 卡giffgaff 申请、激活和使用教程](https://360card.site/wp-content/uploads/2024/12/Giffgaff-Unlimited-Data-Plan-300x163.webp "英国实体SIM 卡giffgaff 申请、激活和使用教程")
 
 咨询和交流TG群：[eSIM card 交流群](https://t.me/esim_card_fans)
