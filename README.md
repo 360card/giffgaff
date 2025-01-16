@@ -1,7 +1,10 @@
 # 英国实体 SIM 卡 giffgaff 申请、激活和使用攻略
 ## ![英国实体SIM 卡giffgaff 申请、激活和使用教程](https://360card.site/wp-content/uploads/2024/12/Giffgaff-Unlimited-Data-Plan-300x163.webp "英国实体SIM 卡giffgaff 申请、激活和使用教程")
 
-咨询和交流TG群：[eSIM card 交流群](https://t.me/esim_card_fans)
+咨询和交流 TG 群：[eSIM Card 交流群](https://t.me/esim_card_fans)
+
+付邮费送 Giffgaff：[提交邮寄信息，航空或陆运寄出](https://work.weixin.qq.com/ca/cawcdedf4967b24ce8)
+
 > 90% 以上送达率指通过 [邀请链接](https://360card.site/go/giffgaff/)申请卡片，每10次申请操作，可以送达9张或10张卡片。
 ## giffgaff 是什么
 
