@@ -179,9 +179,16 @@ First name 这里填写拼音的名， Last name 填写拼音的姓，建议全�
 
 ### 填写账单地址
 填写付款方式和账单地址，付款方式支持 MasterCard、Vista，账单地址简单起见和个人地址一致。
-> 初次使用需要MasterCard、Vista支付，后面也可以添加 PayPal 支付方式。
+> 初次使用需要 MasterCard、Vista、日本 JCB 或美国运通 AE 支付，后面也可以添加 PayPal 支付方式。
+
+#### MasterCard 、 Visa 、日本 JCB，美国运通 AE 卡支付
 
 ![英国实体SIM 卡giffgaff 申请、激活和使用教程](https://360card.site/wp-content/uploads/2024/12/Screenshot-2024-11-30-174702-300x204.png "英国实体SIM 卡giffgaff 申请、激活和使用教程") ![英国实体SIM 卡giffgaff 申请、激活和使用教程](https://360card.site/wp-content/uploads/2024/12/Screenshot-2024-11-30-175327-293x300.png "英国实体SIM 卡giffgaff 申请、激活和使用教程")
+
+#### giffgaff 礼品卡激活
+
+![英国实体SIM 卡giffgaff 申请、激活和使用教程](https://360card.site/wp-content/uploads/2024/12/361f48a3-2a0d-42e8-a7cd-917847becc9d-472x1024.png "礼品卡激活")
+
 
 ### 提交激活指令
 点击Active your SIM 按钮激活卡片，成功激活卡片后可以在页面看到11位的英国电话号码、和你的账户用户名。
