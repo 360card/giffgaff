@@ -3,7 +3,9 @@
 
 咨询和交流 TG 群：[eSIM Card 交流群](https://t.me/esim_card_fans)
 
-付邮费送 Giffgaff：[提交邮寄信息，航空或陆运寄出](https://work.weixin.qq.com/ca/cawcdedf4967b24ce8)
+付邮费送 Giffgaff，充 10 英镑 送 5 英镑：[点击提交邮寄信息，由企业提供邮寄服务](https://work.weixin.qq.com/ca/cawcdedf4967b24ce8)
+
+各种储值 Giffgaff 成品卡，免去充值烦恼：[点击咨询细节，由企业提供商品和邮寄服务](https://work.weixin.qq.com/ca/cawcdedf4967b24ce8)
 
 > 90% 以上送达率指通过 [邀请链接](https://360card.site/go/giffgaff/)申请卡片，每10次申请操作，可以送达9张或10张卡片。
 ## giffgaff 是什么
@@ -14,10 +16,10 @@
 
 *   同时支持实体卡和eSIM 卡
 *   支持在中国大陆漫游使用
-*   支持0 月租使用，在中国大陆保号成本极低
+*   支持 0 月租使用，在中国大陆保号成本极低
 *   接收短信免费，支持注册大部分的境外主流App
 *   有大量灵活的合约、按月付费套餐可供选择
-*   在英国使用可享受giffgaff 用户之间免费通话& 短信
+*   在英国使用可享受 giffgaff 用户之间免费通话 & 短信
 *   所有套餐在英国本地无限通话和短信
 
 ## giffgaff 的套餐和资费
