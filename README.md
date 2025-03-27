@@ -21,3 +21,5 @@
 * [查询余额](https://github.com/360card/giffgaff/wiki/%E8%8B%B1%E5%9B%BD%E5%AE%9E%E4%BD%93-SIM-%E5%8D%A1-giffgaff--%E6%9F%A5%E8%AF%A2%E8%AF%9D%E8%B4%B9%E4%BD%99%E9%A2%9D)
 * [关闭语音信箱](https://github.com/360card/giffgaff/wiki/%E8%8B%B1%E5%9B%BD%E5%AE%9E%E4%BD%93-SIM-%E5%8D%A1-giffgaff--%E5%85%B3%E9%97%AD%E8%AF%AD%E9%9F%B3%E4%BF%A1%E7%AE%B1)
 * [其它常用链接](https://github.com/360card/giffgaff/wiki/%E8%8B%B1%E5%9B%BD%E5%AE%9E%E4%BD%93-SIM-%E5%8D%A1-giffgaff-%E5%B8%B8%E7%94%A8%E9%93%BE%E6%8E%A5)
+### 高级玩法
+* [转换为 eSIM](https://github.com/360card/giffgaff/wiki/%E8%8B%B1%E5%9B%BD%E5%AE%9E%E4%BD%93-SIM-%E5%8D%A1-giffgaff--%E8%BD%AC%E6%8D%A2%E4%B8%BA-eSIM)
