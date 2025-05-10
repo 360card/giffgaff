@@ -5,17 +5,12 @@
 
 付邮费送 Giffgaff，充 10 英镑 送 5 英镑：[点击提交邮寄信息，由企业提供邮寄服务](https://work.weixin.qq.com/ca/cawcdedf4967b24ce8)
 
-各种储值 Giffgaff 成品卡，免去充值烦恼：[点击咨询细节，由企业提供商品和邮寄服务](https://work.weixin.qq.com/ca/cawcdedf4967b24ce8)
-
 ## giffgaff 基本介绍
 * [介绍](https://github.com/360card/giffgaff/wiki/%E8%8B%B1%E5%9B%BD%E5%AE%9E%E4%BD%93-SIM-%E5%8D%A1-giffgaff-%E4%BB%8B%E7%BB%8D)
 * [规格](https://github.com/360card/giffgaff/wiki/%E8%8B%B1%E5%9B%BD%E5%AE%9E%E4%BD%93-SIM-%E5%8D%A1-giffgaff--%E8%A7%84%E6%A0%BC)
 ### giffgaff 自助申请
 * [申请攻略](https://github.com/360card/giffgaff/wiki/%E8%8B%B1%E5%9B%BD%E5%AE%9E%E4%BD%93-SIM-%E5%8D%A1-giffgaff-%E7%94%B3%E8%AF%B7%E6%94%BB%E7%95%A5)
 * [自助激活攻略](https://github.com/360card/giffgaff/wiki/%E8%8B%B1%E5%9B%BD%E5%AE%9E%E4%BD%93-SIM-%E5%8D%A1-giffgaff-%E6%BF%80%E6%B4%BB%E6%94%BB%E7%95%A5)
-### giffgaff
-* [官网同款免费邮寄](https://github.com/360card/giffgaff/wiki/%E8%8B%B1%E5%9B%BD%E5%AE%9E%E4%BD%93-SIM-%E5%8D%A1-giffgaff-%E5%85%8D%E8%B4%B9%E9%82%AE%E5%AF%84)
-* [成品卡](https://github.com/360card/giffgaff/wiki/%E8%8B%B1%E5%9B%BD%E5%AE%9E%E4%BD%93-SIM-%E5%8D%A1-giffgaff-%E6%88%90%E5%93%81%E5%8D%A1)
 ## 用卡指南
 * [账户找回](https://github.com/360card/giffgaff/wiki/%E8%8B%B1%E5%9B%BD%E5%AE%9E%E4%BD%93-SIM-%E5%8D%A1-giffgaff-%E8%B4%A6%E6%88%B7%E6%89%BE%E5%9B%9E)
 * [查询余额](https://github.com/360card/giffgaff/wiki/%E8%8B%B1%E5%9B%BD%E5%AE%9E%E4%BD%93-SIM-%E5%8D%A1-giffgaff--%E6%9F%A5%E8%AF%A2%E8%AF%9D%E8%B4%B9%E4%BD%99%E9%A2%9D)
